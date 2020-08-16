@@ -28,7 +28,7 @@ const ResumeLinks = () => {
       </GatsbyLink>
       <Link
         variant="resume"
-        href="https://github.com/rakeshpatra/rakeshpatra.github.io/raw/master/files/resume.pdf"
+        href="https://github.com/rakeshpatra/rakeshpatra.github.io/raw/develop/files/resume.pdf"
         target="_blank"
         marginLeft={3}
       >
