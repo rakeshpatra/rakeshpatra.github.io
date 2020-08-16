@@ -4,8 +4,6 @@ I have about 6 years of experience of full stack development for projects like s
 
 I love coding and like to solve day-2-day problems in the best possible way.
 
-Apart from coding I also love doing the following:
+Apart from coding I also love 🚓 **Travelling** 📸 **Photography** 🥁 **Drumming** 
 
-🚓 **Travelling** 📸 **Photography** 🥁 **Drumming** 
-
-I currently live in Bhubaneswar, India. 📍
+I currently live in Bhubaneswar, India 📍
